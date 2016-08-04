@@ -1,0 +1,49 @@
+_repo: The-Man-Eaters-of-Tsavo-and-Other-East-African-Adventures_3810
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Selous, Frederick Courteney
+    alias: Selous, F. C. (Frederick Courteney)
+    birthdate: 1851
+    deathdate: 1917
+    gutenberg_agent_id: '7619'
+    url: http://www.gutenberg.org/2009/agents/7619
+creator:
+  author:
+    agent_name: Patterson, J. H. (John Henry)
+    alias: Patterson, John Henry
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '1313'
+    url: http://www.gutenberg.org/2009/agents/1313
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Patterson_%28author%29
+description: "The Man-eaters of Tsavo is a book written by John Henry Patterson in\
+  \ 1907 that recounts his experiences while overseeing the construction of a railroad\
+  \ bridge in what would become Kenya. It is most widely known for recounting the\
+  \ story of a pair of lions that he killed, known as the Tsavo maneaters.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3810'
+  wikidata: Q3631559
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- Africa, East'
+- !lcc 'SK'
+- !lcsh 'Africa, East -- Description and travel'
+- !lcsh 'Uganda Railway'
+- GITenberg
+title: The Man-Eaters of Tsavo, and Other East African Adventures
+url: http://www.gutenberg.org/ebooks/3810
+wikipedia:
+- https://sh.wikipedia.org/wiki/The_Man-eaters_of_Tsavo
+- https://en.wikiquote.org/wiki/The_Man-Eaters_of_Tsavo
+- https://hi.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%AE%E0%A5%88%E0%A4%A8-%E0%A4%88%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%B8_%E0%A4%91%E0%A4%AB%E0%A4%BC_%E0%A4%B8%E0%A4%BE%E0%A4%B5%E0%A5%8B
+- https://en.wikipedia.org/wiki/The_Man-eaters_of_Tsavo
+- https://kn.wikipedia.org/wiki/%E0%B2%A6%E0%B2%BF_%E0%B2%AE%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%A8%E0%B3%8D-%E0%B2%88%E0%B2%9F%E0%B2%B0%E0%B3%8D%E0%B2%B8%E0%B3%8D_%E0%B2%86%E0%B2%AB%E0%B3%8D_%E0%B2%B8%E0%B2%BE%E0%B2%B5%E0%B3%8A
+- https://sw.wikipedia.org/wiki/The_Man-Eaters_of_Tsavo
