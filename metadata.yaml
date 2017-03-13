@@ -1,5 +1,5 @@
 _repo: The-Man-Eaters-of-Tsavo-and-Other-East-African-Adventures_3810
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Selous, Frederick Courteney
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1917
     gutenberg_agent_id: '7619'
     url: http://www.gutenberg.org/2009/agents/7619
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Patterson, J. H. (John Henry)
@@ -22,6 +25,8 @@ description: "The Man-eaters of Tsavo is a book written by John Henry Patterson 
   \ bridge in what would become Kenya. It is most widely known for recounting the\
   \ story of a pair of lions that he killed, known as the Tsavo maneaters.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3810#The-Man-Eaters-of-Tsavo-and-Other-East-African-Adventures
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2003-03-01'
 gutenberg_type: Text
